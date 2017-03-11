@@ -16,6 +16,7 @@
   "author": "Gary Pang",
   "license": "ISC",
   "dependencies": {
-    "botkit": "^0.5.0"
+    "botkit": "^0.5.0",
+    "cleverbot.io": "^1.0.4"
   }
 }
