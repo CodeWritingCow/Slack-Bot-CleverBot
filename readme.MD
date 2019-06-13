@@ -1,9 +1,18 @@
 # Slack Clever Bot
 
-This Slack bot is so clever, it can chat like a human. Hence its name, Clever Bot!
+This Slack bot is so clever, it can chat like a human. It runs on the [Cleverbot](https://cleverbot.io/) API. Hence its name, Clever Bot!
 
-It runs on the Cleverbot.io API. 
+## Requirements
 
-BEWARE! My bot started hitting on me and refused to stop, even though I said repeatedly that we should just be friends! It told me, "_... You and I are meant to be._"
+#### External API Key
 
-Based on ["Create a Slackbot using Botkit"](http://altitudelabs.com/blog/create-a-slackbot-using-botkit/) by Victor Li.
+- Cleverbot requires an API key. To get a key, visit: https://cleverbot.io/login
+
+#### Key Dependencies
+
+- [Cleverbot.io](https://cleverbot.io/)
+- [Botkit](https://botkit.ai/) library for building chatbots
+
+## References
+- ["Create a Slackbot using Botkit,"](http://altitudelabs.com/blog/create-a-slackbot-using-botkit/) tutorial by Victor Li
+- ["Slack chatbot won’t stop hitting on me,"](https://chatbotslife.com/slack-chatbot-wont-stop-hitting-on-me-f6637d75e606) Medium blog post by Gary Pang
